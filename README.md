@@ -4,6 +4,11 @@
 
 ![alt text](preview.png)
 
+## Setup
+
+- yarn
+- yarn dev
+
 ## Color Scheme
 
 ### Primary Colors
